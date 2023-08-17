@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load crispy_forms_tags %}
+{% block title %}Todo Form{% endblock %}
+{% block contents %}
+<div style="width: 80%" class="m-auto">
+    <form method="post">
+        {% csrf_token %}
+        {{form|crispy}}
+        <br>
+        <button class="btn btn-primary mt-5">Submit</button>
+    </form>
+</div>
+{% endblock %}

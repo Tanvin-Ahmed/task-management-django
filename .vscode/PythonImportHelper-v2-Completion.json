@@ -1,0 +1,617 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "reverse_lazy",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "importPath": "task_app.models",
+        "description": "task_app.models",
+        "isExtraImport": true,
+        "detail": "task_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "importPath": "task_app.models",
+        "description": "task_app.models",
+        "isExtraImport": true,
+        "detail": "task_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteCompletedTask",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTask",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditTask",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "TaskFormView",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateStatusToCompleted",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateStatusToInCompleted",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewCompleteTaskList",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewTaskList",
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "isExtraImport": true,
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "CreateView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {}
+    },
+    {
+        "label": "TodoForm",
+        "importPath": "task_app.forms",
+        "description": "task_app.forms",
+        "isExtraImport": true,
+        "detail": "task_app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "assignment_02.asgi",
+        "description": "assignment_02.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "assignment_02.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-#!fui&y&-u2gs76+ay!=0wyx8mcz9o_wft1%5ee*s@yqk8_#j%\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-#!fui&y&-u2gs76+ay!=0wyx8mcz9o_wft1%5ee*s@yqk8_#j%\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"task_app\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"task_app\",\n    \"crispy_forms\",\n    \"crispy_bootstrap5\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_ALLOWED_TEMPLATE_PACKS",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "CRISPY_ALLOWED_TEMPLATE_PACKS = \"bootstrap5\"\nCRISPY_TEMPLATE_PACK = \"bootstrap5\"\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CRISPY_TEMPLATE_PACK",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "CRISPY_TEMPLATE_PACK = \"bootstrap5\"\nMIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"assignment_02.urls\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "ROOT_URLCONF = \"assignment_02.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"assignment_02.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "assignment_02.settings",
+        "description": "assignment_02.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "assignment_02.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "assignment_02.urls",
+        "description": "assignment_02.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\"\", include('task_app.urls')),\n]",
+        "detail": "assignment_02.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "assignment_02.wsgi",
+        "description": "assignment_02.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "assignment_02.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "task_app.migrations.0001_initial",
+        "description": "task_app.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"TaskModel\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "task_app.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "TaskAppConfig",
+        "kind": 6,
+        "importPath": "task_app.apps",
+        "description": "task_app.apps",
+        "peekOfCode": "class TaskAppConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"task_app\"",
+        "detail": "task_app.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TodoForm",
+        "kind": 6,
+        "importPath": "task_app.forms",
+        "description": "task_app.forms",
+        "peekOfCode": "class TodoForm(forms.ModelForm):\n    class Meta:\n        model = TaskModel\n        fields = ['taskTitle', 'taskDescription']\n        labels = {\n            'taskTitle': 'Title',\n            'taskDescription': 'Description'\n        }",
+        "detail": "task_app.forms",
+        "documentation": {}
+    },
+    {
+        "label": "TaskModel",
+        "kind": 6,
+        "importPath": "task_app.models",
+        "description": "task_app.models",
+        "peekOfCode": "class TaskModel(models.Model):\n    taskTitle = models.CharField(max_length=200)\n    taskDescription = models.TextField()\n    is_completed = models.BooleanField(default=False)",
+        "detail": "task_app.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "task_app.urls",
+        "description": "task_app.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', home, name='home'),\n    path('show_tasks/', ViewTaskList.as_view(), name='tasks'),\n    path('show_completed_tasks/', ViewCompleteTaskList.as_view(), name='completed_tasks'),\n    path('save_form/', TaskFormView.as_view(), name='save_form'),\n    path('edit_task/<int:pk>', EditTask.as_view(), name='update_form'),\n    path('update_task_complete/<int:pk>', UpdateStatusToCompleted.as_view(), name='update_to_complete'),\n    path('update_task_incomplete/<int:pk>', UpdateStatusToInCompleted.as_view(), name='update_to_incomplete'),\n    path('delete/<int:pk>', DeleteTask.as_view(), name='delete'),\n    path('delete_completed_task/<int:pk>', DeleteCompletedTask.as_view(), name='delete_completed_task'),",
+        "detail": "task_app.urls",
+        "documentation": {}
+    },
+    {
+        "label": "TaskFormView",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class TaskFormView(CreateView):\n    model = TaskModel\n    template_name = 'task_form.html'\n    form_class = TodoForm\n    success_url = reverse_lazy('tasks')\nclass ViewTaskList(ListView):\n    template_name = 'show_tasks.html'\n    model = TaskModel\n    context_object_name = 'data'\n    ordering = ['id']",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewTaskList",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class ViewTaskList(ListView):\n    template_name = 'show_tasks.html'\n    model = TaskModel\n    context_object_name = 'data'\n    ordering = ['id']\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        queryset = queryset.filter(is_completed=False)\n        return queryset\nclass ViewCompleteTaskList(ListView):",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "ViewCompleteTaskList",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class ViewCompleteTaskList(ListView):\n    template_name = 'completed_tasks.html'\n    model = TaskModel\n    context_object_name = 'data'\n    ordering = ['id']\n    def get_queryset(self):\n        queryset = super().get_queryset()\n        queryset = queryset.filter(is_completed=True)\n        return queryset\nclass EditTask(UpdateView):",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "EditTask",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class EditTask(UpdateView):\n    model = TaskModel\n    form_class = TodoForm\n    template_name = 'task_form.html'\n    success_url = reverse_lazy('tasks')\nclass UpdateStatusToCompleted(UpdateView):\n    model = TaskModel\n    fields = ['is_completed']\n    success_url = reverse_lazy('completed_tasks')\n    template_name = 'task_form.html'",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateStatusToCompleted",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class UpdateStatusToCompleted(UpdateView):\n    model = TaskModel\n    fields = ['is_completed']\n    success_url = reverse_lazy('completed_tasks')\n    template_name = 'task_form.html'\n    def post(self, request, *args, **kwargs):\n        self.object = self.get_object()\n        self.object.is_completed = not self.object.is_completed\n        self.object.save()\n        data = {'status': self.object.is_completed}",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateStatusToInCompleted",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class UpdateStatusToInCompleted(UpdateView):\n    model = TaskModel\n    fields = ['is_completed']\n    success_url = reverse_lazy('tasks')\n    template_name = 'task_form.html'\n    def post(self, request, *args, **kwargs):\n        self.object = self.get_object()\n        self.object.is_completed = not self.object.is_completed\n        self.object.save()\n        data = {'status': self.object.is_completed}",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteTask",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class DeleteTask(DeleteView):\n    model = TaskModel\n    success_url = reverse_lazy('tasks')\n    def get(self, request, *args, **kwargs):\n        self.object = self.get_object()\n        self.object.delete()\n        return redirect(self.get_success_url())\nclass DeleteCompletedTask(DeleteView):\n    model = TaskModel\n    success_url = reverse_lazy('completed_tasks')",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "DeleteCompletedTask",
+        "kind": 6,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "class DeleteCompletedTask(DeleteView):\n    model = TaskModel\n    success_url = reverse_lazy('completed_tasks')\n    def get(self, request, *args, **kwargs):\n        self.object = self.get_object()\n        self.object.delete()\n        return redirect(self.get_success_url())",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "task_app.views",
+        "description": "task_app.views",
+        "peekOfCode": "def home(request):\n    return render(request, 'home.html')\nclass TaskFormView(CreateView):\n    model = TaskModel\n    template_name = 'task_form.html'\n    form_class = TodoForm\n    success_url = reverse_lazy('tasks')\nclass ViewTaskList(ListView):\n    template_name = 'show_tasks.html'\n    model = TaskModel",
+        "detail": "task_app.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"assignment_02.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

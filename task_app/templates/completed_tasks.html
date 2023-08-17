@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block title %} Task List {% endblock %}
+{% block contents %} 
+
+{% if data %}
+<div style="width: 80%;" class="m-auto my-5">
+  <div class="p-2 bg-success text-light rounded">
+    <h1 class="text-center">Completed Tasks</h1>
+  </div>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">Title</th>
+        <th scope="col">Description</th>
+        <th scope="col">Status</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for item in data %}
+      <tr>
+        <td>{{item.taskTitle}}</td>
+        <td>{{item.taskDescription}}</td>
+        <td>
+            {% if item.is_completed == False %}
+            Incomplete
+            {% else %}
+            Complete
+            {% endif %}
+        </td>
+        <td>
+          <a href="{% url 'delete_completed_task' item.id %}" class="btn btn-danger">Delete</a>
+          <a href="{% url 'update_to_incomplete' item.id %}" class="btn btn-warning">Incomplete</a>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <a href="{% url 'tasks' %}" class="mt-3 btn btn-primary">Tasks list</a>
+</div>
+{% for item in data %}
+
+{% endfor %}
+{% else %}
+<div style="width: 80%;" class="m-auto my-5">
+  <h2>No tasks available</h2>
+  <a href="{% url 'tasks' %}" class="btn btn-primary">Task page</a> 
+</div>
+{% endif %}
+
+{% endblock %}
